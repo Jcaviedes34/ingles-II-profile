@@ -1,8 +1,8 @@
 # Translation Notes
 
-**Student:** [Your name]
-**Course:** [Inglés I / Inglés II]
-**Date:** [dd/mm/yyyy]
+**Student:** jhonatan smith caviedes rojas
+**Course:** Inglés II
+**Date:** 01/10/2026
 
 ---
 
