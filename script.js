@@ -101,7 +101,8 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "[Write two or three sentences about yourself: what you study, what interests you in web development, and what you are looking for now.]",
+  "about.text":           "I am a student at Institución Universitaria de El Espinal, where I am pursuing a Professional Technical degree in Web Programming.
+",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
   "about.valueLocation":  "espinal, Colombia",
