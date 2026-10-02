@@ -101,7 +101,7 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "I am a student at Institución Universitaria de El Espinal, where I am pursuing a Professional Technical degree in Web Programming.",
+  "about.text":           "I am a student at El Espinal University Institution, where I am pursuing a Professional Technical degree in Web Programming.",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
   "about.valueLocation":  "espinal, Colombia",
