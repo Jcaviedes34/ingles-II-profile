@@ -56,7 +56,7 @@ const ES = {
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "he aprendido lo basico de html,php y java, estos conocimientos puedo crear paginas web sencillas y programas que realizan tareas basicas",
+  "edu.1.text":  "he aprendido lo basico de html, php y java, con estos conocimientos puedo crear paginas web sencillas y programas que realizan tareas basicas",
   "edu.2.title": "introduccion a cisco packet tracer",
   "edu.2.text":  "aprendi el uso basico de cisco packet tracer y lo use para simular una red que asignara direcciones ip a cada pc",
 
