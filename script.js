@@ -74,7 +74,7 @@ const ES = {
   "project.3.text":  "[Tecnologías usadas]",
 
   "contact.title":         "Contacto",
-  "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
+  "contact.intro":         "¿Tienes un proyecto, una vacante o una idea? Escríbeme y conversamos.",
   "contact.emailLabel":    "Correo",
   "contact.linkedinValue": "[Tu perfil profesional]",
 
@@ -148,11 +148,11 @@ const EN = {
   "project.3.text":  "[Technologies used]",
 
   "contact.title":         "Contact",
-  "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
+  "contact.intro":         "Have a project, a role or an idea? Send me a message.",
   "contact.emailLabel":    "Email",
   "contact.linkedinValue": "[Your professional profile]",
 
-  "footer.note": "[Your name] · Professional Technician in Web Programming · UniEspinal"
+  "footer.note": "Jhonatan Caviedes · Professional Technician in Web Programming · UniEspinal"
 };
 
 
