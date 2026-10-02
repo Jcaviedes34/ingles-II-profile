@@ -140,8 +140,8 @@ const EN = {
   "exp.2.text":  "Developed a basic Java program to perform simple operations. Tested different options to make sure the results were correct.",
 
   "portfolio.title": "Projects",
-  "project.1.title": "[Project name]",
-  "project.1.text":  "[Technologies used]",
+  "project.1.title": "simple-methods",
+  "project.1.text":  "HTML · CSS · JavaScript",
   "project.2.title": "[Project name]",
   "project.2.text":  "[Technologies used]",
   "project.3.title": "[Project name]",
