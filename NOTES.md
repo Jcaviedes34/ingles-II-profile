@@ -50,11 +50,11 @@ Name **one sentence** that was hard to write in English. Copy the Spanish
 version and your English version. Explain what you changed and why a
 word-by-word translation did not work.
 
-> Spanish: [copy your sentence here]
+> Spanish: Soy estudiante en la Institución Universitaria de El Espinal para ser técnico profesional en programación web.
 >
-> English: [copy your sentence here]
+> English: I am a student at El Espinal University Institution, where I am pursuing a Professional Technical degree in Web Programming.
 >
-> [Write 2–4 sentences in English explaining the change.]
+> I changed the structure of the sentence because a word-by-word translation sounded unnatural in English. I used where I am pursuing to explain what I am studying.
 
 ---
 
