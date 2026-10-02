@@ -31,7 +31,7 @@ This file is where you show that you understood those differences.
 Name **one thing** that appears in your Spanish version and does **not** appear
 in your English version. Explain why you removed it.
 
-> [Write 2–4 sentences in English.]
+> I left out the phrase “programas que realizan tareas básicas” from my Spanish version. I changed it to “develop basic programming solutions” because it sounds more natural and professional in an English profile.
 
 ---
 
