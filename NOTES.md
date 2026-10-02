@@ -40,7 +40,7 @@ in your English version. Explain why you removed it.
 Name **one technical term** that you kept in English in both versions.
 Explain why translating it would be a bad idea.
 
-> [Write 2–4 sentences in English.]
+> I kept the technical term “network” in English in both versions. It is a standard term in computer science and networking, so translating it would not be appropriate in a technical context.
 
 ---
 
