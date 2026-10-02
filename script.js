@@ -78,7 +78,7 @@ const ES = {
   "contact.emailLabel":    "Correo",
   "contact.linkedinValue": "[Tu perfil profesional]",
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+  "footer.note": "Jhonatan Caviedes · Técnico Profesional en Programación Web · UniEspinal"
 };
 
 
