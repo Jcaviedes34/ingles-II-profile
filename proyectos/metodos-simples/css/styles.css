@@ -1,0 +1,197 @@
+:root {
+    --primario: #2c3e50;
+    --secundario: #007bff;
+    --fondo: #f4f7f6;
+    --texto: #333;
+    --blanco: #ffffff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: var(--fondo);
+    color: var(--texto);
+}
+
+.contenedor {
+    display: flex;
+    min-height: 100vh;
+}
+
+/* Sidebar */
+.sidebar {
+    width: 300px;
+    background-color: var(--primario);
+    color: var(--blanco);
+    padding: 20px 0;
+}
+
+.sidebar h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--secundario);
+}
+
+.menu-btn {
+    width: 100%;
+    background-color: transparent;
+    color: var(--blanco);
+    border: none;
+    padding: 15px 20px;
+    text-align: left;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.menu-btn:hover {
+    background-color: #34495e;
+    border-left: 4px solid var(--secundario);
+}
+
+.submenu {
+    display: none;
+    background-color: #1a252f;
+}
+
+.ejercicio-btn {
+    width: 100%;
+    background-color: transparent;
+    color: #bdc3c7;
+    border: none;
+    padding: 10px 20px 10px 40px;
+    text-align: left;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.ejercicio-btn:hover {
+    color: var(--blanco);
+}
+
+/* Contenido Principal */
+.contenido-principal {
+    flex: 1;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.tarjeta-ejercicio {
+    background-color: var(--blanco);
+    border-radius: 8px;
+    padding: 30px;
+    width: 100%;
+    max-width: 800px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* Estilos de Bienvenida */
+.bienvenida h1 {
+    text-align: center;
+    color: var(--primario);
+    margin-top: 50px;
+}
+
+.bienvenida p {
+    text-align: center;
+}
+
+/* Clases utilitarias (Reemplazan los style inline) */
+.texto-centrado {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.titulo-ejercicio {
+    text-align: center;
+    margin-bottom: 20px;
+    color: var(--primario);
+}
+
+.input-corto {
+    width: 80px !important;
+}
+
+.select-corto {
+    width: 60px !important;
+}
+
+/* Formularios */
+.controles {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.grupo-input {
+    display: flex;
+    flex-direction: column;
+}
+
+.grupo-input label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.grupo-input input, .grupo-input select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 150px;
+}
+
+.btn-ejecutar {
+    background-color: var(--secundario);
+    color: var(--blanco);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    height: 35px;
+    margin-top: 24px; 
+}
+
+.btn-ejecutar:hover {
+    background-color: #0056b3;
+}
+
+/* Tabla de Historial */
+.titulo-resultados {
+    text-align: center;
+    margin: 30px 0 15px 0;
+}
+
+.tabla-historial {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.tabla-historial th {
+    background-color: var(--secundario);
+    color: var(--blanco);
+    padding: 12px;
+    border: 1px solid #dee2e6;
+    text-align: center;
+}
+
+.tabla-historial td {
+    padding: 12px;
+    border: 1px solid #dee2e6;
+    text-align: center;
+    color: #333;
+}
