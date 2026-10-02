@@ -57,8 +57,8 @@ const ES = {
 
   "edu.1.title": "Técnico Profesional en Programación Web",
   "edu.1.text":  "he aprendido lo basico de html,php y java, estos conocimientos puedo crear paginas web sencillas y programas que realizan tareas basicas",
-  "edu.2.title": "[Curso o certificación]",
-  "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
+  "edu.2.title": "introduccion a cisco packet tracer",
+  "edu.2.text":  "aprendi el uso basico de cisco packet tracer y lo use para simular una red que asignara direcciones ip a cada pc",
 
   "exp.1.title": "[Rol o tipo de proyecto]",
   "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
@@ -131,8 +131,8 @@ const EN = {
 
   "edu.1.title": "Professional Technician in Web Programming",
   "edu.1.text":  "I have learned the fundamentals of HTML, PHP, and Java. I can apply these skills to create simple web pages and develop basic programming solutions.",
-  "edu.2.title": "[Course or certificate]",
-  "edu.2.text":  "[What you learned and how you use it.]",
+  "edu.2.title": "Introduction to Cisco Packet Tracer",
+  "edu.2.text":  "I learned the basics of Cisco Packet Tracer and used it to create a network connection that assigned an IP address to each PC.",
 
   "exp.1.title": "[Role or type of project]",
   "exp.1.text":  "[What you did, which tools you used, and what the result was.]",
