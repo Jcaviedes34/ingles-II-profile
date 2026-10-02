@@ -60,10 +60,10 @@ const ES = {
   "edu.2.title": "introduccion a cisco packet tracer",
   "edu.2.text":  "aprendi el uso basico de cisco packet tracer y lo use para simular una red que asignara direcciones ip a cada pc",
 
-  "exp.1.title": "[Rol o tipo de proyecto]",
-  "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
-  "exp.2.title": "[Rol o tipo de proyecto]",
-  "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
+  "exp.1.title": "Desarrollo de página web",
+  "exp.1.text":  "Desarrollé una página web sencilla utilizando HTML, PHP y JavaScript. Probé sus funciones para comprobar que la página funcionara correctamente.",
+  "exp.2.title": "Desarrollo de programa básico",
+  "exp.2.text":  "Desarrollé un programa básico en Java para realizar operaciones sencillas. Probé diferentes opciones para comprobar que los resultados fueran correctos.",
 
   "portfolio.title": "Proyectos",
   "project.1.title": "metodos-simples",
@@ -134,10 +134,10 @@ const EN = {
   "edu.2.title": "Introduction to Cisco Packet Tracer",
   "edu.2.text":  "I learned the basics of Cisco Packet Tracer and used it to create a network connection that assigned an IP address to each PC.",
 
-  "exp.1.title": "[Role or type of project]",
-  "exp.1.text":  "[What you did, which tools you used, and what the result was.]",
-  "exp.2.title": "[Role or type of project]",
-  "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
+  "exp.1.title": "Web Page Development",
+  "exp.1.text":  "Built a simple web page using HTML, PHP, and JavaScript. Tested its functions to make sure the page worked correctly.",
+  "exp.2.title": "Basic Programming Project",
+  "exp.2.text":  "Developed a basic Java program to perform simple operations. Tested different options to make sure the results were correct.",
 
   "portfolio.title": "Projects",
   "project.1.title": "[Project name]",
