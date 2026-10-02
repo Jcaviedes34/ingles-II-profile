@@ -56,7 +56,7 @@ const ES = {
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "[Una o dos frases sobre lo que estás aprendiendo y qué sabes hacer ahora.]",
+  "edu.1.text":  "he aprendido lo basico de html,php y java, estos conocimientos puedo crear paginas web sencillas y programas que realizan tareas basicas",
   "edu.2.title": "[Curso o certificación]",
   "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
 
@@ -130,7 +130,7 @@ const EN = {
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "[One or two sentences about what you are learning and what you can do now.]",
+  "edu.1.text":  "I have learned the fundamentals of HTML, PHP, and Java. I can apply these skills to create simple web pages and develop basic programming solutions.",
   "edu.2.title": "[Course or certificate]",
   "edu.2.text":  "[What you learned and how you use it.]",
 
