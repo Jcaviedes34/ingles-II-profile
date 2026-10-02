@@ -73,10 +73,10 @@ You may use dictionaries, translators and AI tools. But you must say so here.
 
 ## Self-check before you submit
 
-- [ ] Both dictionaries in `script.js` have the same keys.
-- [ ] No `[square brackets]` are left in the page.
-- [ ] My page has no address, no phone number and no ID number.
-- [ ] The language button works in both directions.
-- [ ] All my links open the correct page.
-- [ ] I read my English text out loud and it sounds natural to me.
-- [ ] I can explain my profile in English, without reading it.
+- [x] Both dictionaries in `script.js` have the same keys.
+- [x] No `[square brackets]` are left in the page.
+- [x] My page has no address, no phone number and no ID number.
+- [x] The language button works in both directions.
+- [x] All my links open the correct page.
+- [x] I read my English text out loud and it sounds natural to me.
+- [x] I can explain my profile in English, without reading it.
